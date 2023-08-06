@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/06 13:00:38.000.928,C:\Users\Windows\Desktop\TTesseractOCR4-master\examples\delphi-vcl-image\FormTesseractOCRImage.pas=C:\Users\Windows\Desktop\TTesseractOCR4-master\examples\delphi-vcl-image\UnitOCR.pas</Transaction>
+    <Transaction>2023/08/06 13:00:38.000.943,C:\Users\Windows\Desktop\TTesseractOCR4-master\examples\delphi-vcl-image\FormTesseractOCRImage.dfm=C:\Users\Windows\Desktop\TTesseractOCR4-master\examples\delphi-vcl-image\UnitOCR.dfm</Transaction>
+    <Transaction>2023/08/06 13:59:18.000.773,C:\Users\Windows\Desktop\TTesseractOCR4-master\examples\delphi-vcl-image\delphi_vcl_image.dproj=C:\Users\Windows\Desktop\TTesseractOCR4-master\examples\delphi-vcl-image\POCR.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
